@@ -1,0 +1,6 @@
+module Pods_laradio {
+  umbrella header "Pods-laradio-umbrella.h"
+
+  export *
+  module * { export * }
+}

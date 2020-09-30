@@ -1,0 +1,6 @@
+module Pods_laradio_laradioTests {
+  umbrella header "Pods-laradio-laradioTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
